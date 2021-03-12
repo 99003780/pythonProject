@@ -5,4 +5,3 @@ def conv(c):
     return 9 / 5 * celsius + 32
 
 print(fahrenheit)
-h
